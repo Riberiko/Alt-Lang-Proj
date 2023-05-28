@@ -15,7 +15,9 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2
 					]
 				}
 			],
@@ -27,10 +29,12 @@
 					[
 						0
 					],
-					"name" : "untitled",
+					"name" : "CellProject",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1,
+						2
 					]
 				}
 			],
@@ -38,9 +42,23 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-da032358c255c505e109.json",
-					"name" : "untitled",
+					"id" : "Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main-Debug-bc0836bb49ebce4d7e77.json",
+					"name" : "Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyLib-Debug-0fe5163c47dcab3ac147.json",
+					"name" : "MyLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test-Debug-44a8ed252c991d384e75.json",
+					"name" : "Test",
 					"projectIndex" : 0
 				}
 			]
