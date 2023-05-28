@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled"
+			"value" : "C:/Program Files (x86)/CellProject"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled"
+			"value" : "CellProject"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1254,19 +1254,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "untitled_BINARY_DIR",
+			"name" : "CellProject_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1278,7 +1266,7 @@
 			"value" : "C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug"
 		},
 		{
-			"name" : "untitled_IS_TOP_LEVEL",
+			"name" : "CellProject_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1290,7 +1278,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled_SOURCE_DIR",
+			"name" : "CellProject_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1300,6 +1288,90 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Users/GMD/CLionProjects/CellProject"
+		},
+		{
+			"name" : "Cell_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug"
+		},
+		{
+			"name" : "Cell_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Cell_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/GMD/CLionProjects/CellProject"
+		},
+		{
+			"name" : "Project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug"
+		},
+		{
+			"name" : "Project_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Project_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/GMD/CLionProjects/CellProject"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

@@ -1,3 +1,5 @@
-C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/MyLib.dir
 C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/GMD/CLionProjects/CellProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
